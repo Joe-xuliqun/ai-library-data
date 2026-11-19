@@ -1,0 +1,1387 @@
+{
+ "version": "2026-11-19",
+ "sections": {
+  "articles": {
+   "tag": "61 篇",
+   "groups": [
+    {
+     "head": "尹晨公众号AI+电商干货文章集锦",
+     "type": "list",
+     "count": "21 篇",
+     "items": [
+      {
+       "title": "字节，绝不能一家独大",
+       "url": "https://mp.weixin.qq.com/s?__biz=MzI3MDIyOTAzNw==&mid=2247491696&idx=1&sn=7c134b9126d663f0d53b9321ac04b394&chksm=eb95d7183c97a8d031c1da0472eca0b0bc4e96b31dbe4d76a0242302b78c6231f4b54d76ed6e#rd",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "Coze扣子空间下线，一个AI时代的结束！",
+       "url": "https://mp.weixin.qq.com/s?__biz=MzI3MDIyOTAzNw==&mid=2247491676&idx=1&sn=25cd723db09613a4083f60b04177ede9&chksm=eb46548c1c17b6b11b677840aa83f02f5817e59ba1e41dda996f28376bdf047cd9e59d3374a6#rd",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "Claude，亡我账号之心不死！",
+       "url": "https://mp.weixin.qq.com/s/YWDhBNRXuJaTRm7OQy1ytQ",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "WorkBuddy，腾讯继QQ、微信之后第三大战略级产品？",
+       "url": "https://mp.weixin.qq.com/s/7INHWN06R9v7NgYOSPxCag",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "百度，到底怎么了？",
+       "url": "https://mp.weixin.qq.com/s/VfsFVftG2LYh4GpLdVhaNA",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "豆包豆包，野心不小！",
+       "url": "https://mp.weixin.qq.com/s?__biz=MzI3MDIyOTAzNw==&mid=2247491609&idx=1&sn=cd3aa5bcda6db6bac1dab86295582c0c&chksm=ebc6796af7f6ee8aae60ce10bba89f951ff994d3b74fd2049733d7516d0deeb7d78bfc3cd631#rd",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "我欠 DeepSeek一个道歉！",
+       "url": "https://mp.weixin.qq.com/s?__biz=MzI3MDIyOTAzNw==&mid=2247491584&idx=1&sn=85958a0c1b46e1cebb386fc88666276c&chksm=eb35c86b3f85cd935c113d0ad6ab2f9b348e96b6c2822127d19ef74927e18c71dd7d6b4732a5#rd",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "AI受益最大的，不是你，是那群撸价格羊毛的人！",
+       "url": "https://mp.weixin.qq.com/s?__biz=MzI3MDIyOTAzNw==&mid=2247491578&idx=1&sn=6dac08dccf4d5f73231253d88bf57253&chksm=eb496a961bf62d9b9aaa9e25a22485da79e703e65766ebcc7adedc124ea7a402ae56bd585f3b#rd",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "当村里的二狗子，都用起了GPT，世界，真的变了",
+       "url": "https://mp.weixin.qq.com/s?__biz=MzI3MDIyOTAzNw==&mid=2247491567&idx=1&sn=a1366f5c520099ccbce4885981df5cde&chksm=ebcc36f0c7c34b0cd7a990370f32ce0ee474ab5fcc711bd077346187ce77eff2c66010e9c40c#rd",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "你，害怕被AI淘汰吗？",
+       "url": "https://mp.weixin.qq.com/s?__biz=MzI3MDIyOTAzNw==&mid=2247491536&idx=1&sn=c5f9a695831c3c4bd4c62d5a6fc701b4&chksm=eb89f5472bdbf76dc0e510a61353aa956713465b1c7838c66ea3d67461308798973fee5fb788#rd",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "实名举报！我被AI视频工具“小云雀”连续欺诈三次！",
+       "url": "https://mp.weixin.qq.com/s?__biz=MzI3MDIyOTAzNw==&mid=2247491527&idx=1&sn=57790eb4603d84546714a14771cc4c44&chksm=eb4693be7972301d504c6e4d40ee1219a8523ea3cbedd0ac71c0ac62dcdb7ce6d51aefcee7f5#rd",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "关于AI素材，你是如何被知识博主欺骗的？",
+       "url": "https://mp.weixin.qq.com/s/PcE1YWH1bLMCiyTcJH9yyg",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "用了 AI，你就不觉得自己是个垃圾人了吗？",
+       "url": "https://mp.weixin.qq.com/s?__biz=MzI3MDIyOTAzNw==&mid=2247491484&idx=1&sn=d2e2b9a0869b6968b730c0d0e185126c&chksm=eb1af3c5bd6b5a864bc43cc4501ad982d75edf10c567d12d95b788a6f2de74e1aac77d422265#rd",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "Hypit 把\"爆款复刻\"变成了一条命令：带货短视频的批量时代来了？",
+       "url": "https://mp.weixin.qq.com/s/KC-_QtoKcgEOlRpinVPioA",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "看完了数百万字的AI群聊，我总结了一篇万字长文！",
+       "url": "https://mp.weixin.qq.com/s/ckou-FyyJ8IXQCmLNWfCbA",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "卖货卖了一个亿，我才真正弄懂AI电商素材！",
+       "url": "https://mp.weixin.qq.com/s/vzEMdrAo-N0vNP5eyQ05xQ",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "电商人必看，一文掌握 WorkBuddy！",
+       "url": "https://mp.weixin.qq.com/s/NpBpi5swNI38eGAgpovS5w",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "为了买Token，我卖掉了北京一套房！",
+       "url": "https://mp.weixin.qq.com/s/Pa4bfV-YMpy9UxKMZLltbw",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "超炸！这套AI+飞书方法论，让内容效率提升100倍！",
+       "url": "https://mp.weixin.qq.com/s/AXzC574udMvgnStrZWpO-Q",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "万字长文，因为过度迷信AI，我做电商亏了100万的惨痛教训！",
+       "url": "https://mp.weixin.qq.com/s/CRJJGWjo8MZBU_QrMH8ojA",
+       "tag": "尹晨 · 公众号"
+      },
+      {
+       "title": "万字长文，AI重构内容生产，领先99%同行！",
+       "url": "https://mp.weixin.qq.com/s/k9eAUBQUiJavk8CcFMgsnw",
+       "tag": "尹晨 · 公众号"
+      }
+     ]
+    },
+    {
+     "head": "杜老板公众号AI+电商干货文章集锦",
+     "type": "list",
+     "count": "26 篇",
+     "items": [
+      {
+       "title": "豆包、字节，你究竟要干嘛？？",
+       "url": "https://mp.weixin.qq.com/s/aIeDpblod5J_pNec87YsEQ",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "太离谱！平台收费的一键复刻爆款视频，我跑通了！workbuddy可以，豆包用不了。",
+       "url": "https://mp.weixin.qq.com/s/cLZPQegldmMnRrhdkH-Bdw",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "全网首发！10轮实测！可灵4.0 VS Seedance 2.5：终于有另外的选择了！！",
+       "url": "https://mp.weixin.qq.com/s/rvsMbSEVzuMtqk3rL8cAeA",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "我实测了一天。不写代码的人，就是Gemini 4 的最大赢家。",
+       "url": "https://mp.weixin.qq.com/s/hyXwzOrrCI9cyZd5ULq1_w",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "免费！平替Seedance！这个下载量超过gpt的AI，做视频很强。",
+       "url": "https://mp.weixin.qq.com/s/_gFplhTsrAD_v-kV7FnPFg",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "最后上车时间：人人可用，免费用上Seedance 2.5",
+       "url": "https://mp.weixin.qq.com/s/_HtPTt4DoLkdZZm_LdKY6w",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "爆款复刻新方法，Seedance、H3都能用，最低一秒三分钱。",
+       "url": "https://mp.weixin.qq.com/s/LbGbhf8aQjBREYtsCzwcGg",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "GPT突然停售200美元会员，接下来我们该怎么选？",
+       "url": "https://mp.weixin.qq.com/s/56K3MwFW3jdbK0WRFKSH8w",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "GPT6 Astra + Seedance 2.5，一举解决AI视频的老大难问题",
+       "url": "https://mp.weixin.qq.com/s/llM89JeaXYWdGcIjQoJR9w",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "GPT6 上线2天，除了编程能力，我发现了普通人最需要警惕的2个更新点",
+       "url": "https://mp.weixin.qq.com/s/GtpAAfJh0ic8SKa_XeTdUQ",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "首发：Seedance 2.5 真实内测体验与实操心得",
+       "url": "https://mp.weixin.qq.com/s/f7W4M-qRfJ-ff8wijwW1CQ",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "Miora 实测：来自workbuddy团队的设计Agent，可能会颠覆掉你的电商图片生产流程",
+       "url": "https://mp.weixin.qq.com/s/8u-cTZQjTje8L8TLtq8MBA",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "Codex也能换个性皮肤了，但windows用户有坑！",
+       "url": "https://mp.weixin.qq.com/s/YEU5POWesm22xT6FRVpOSQ",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "在codex里加入画布，生图改图从此指哪打哪",
+       "url": "https://mp.weixin.qq.com/s/eLq5Y9hgob_-rsWKedvdPA",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "GPT5.6要来了，但我劝你赶紧准备好替代品",
+       "url": "https://mp.weixin.qq.com/s/GCX8-5mmDI6yPpe3mk-VZw",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "全网首发：Seedance Mini 实测。价格、质量、速度，都是惊喜",
+       "url": "https://mp.weixin.qq.com/s/aD1xTnzSwlRjbev2aBe78g",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "Seedance低价渠道大揭秘：遇到后两种，快跑！！",
+       "url": "https://mp.weixin.qq.com/s/2dq1mGzK5aIAvORzUOdLww",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "Seedance新玩法！全网爆火的FPV视频，手把手教会你",
+       "url": "https://mp.weixin.qq.com/s/mnopMjZWCxVIgv-lm0ESNQ",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "Arena排名第一，外网狂吹，又来了一个Seedance杀手？",
+       "url": "https://mp.weixin.qq.com/s/FoavvgzNX10oCie-GCGw9Q",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "Google的新视频模型Omni，真的拉胯吗？",
+       "url": "https://mp.weixin.qq.com/s/3OlNpV7B5LLUEDCBnGsJcw",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "即梦又涨价，但我找到了10秒视频只要2块多，还不用排队的方法",
+       "url": "https://mp.weixin.qq.com/s/yXui2jF2Yzh7jhtVZ4B7mA",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "今天晚上传说中那个能超过SD2的快乐马发了，灰测用户来告诉你真相是什么",
+       "url": "https://mp.weixin.qq.com/s/WNMNBd7eIdoLWMrbbdtiPQ",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "新发的image2真的非常强，我用几十个实测的casse告诉你，这是一个“轮椅”级别的模型",
+       "url": "https://mp.weixin.qq.com/s/GmFmrqadBlO7UrAftmG0MA",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "如果你觉得AI给的回答千篇一律，那我教你几招，快速让他变聪明可好？",
+       "url": "https://mp.weixin.qq.com/s/cHp-iQIXd12OGT0DdktzbA",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "飞书CLI对于电商人的价值，目前的自媒体都没有说到",
+       "url": "https://mp.weixin.qq.com/s/PNOnGLMBBkBXyTZAEvzvwQ",
+       "tag": "杜老板 · 公众号"
+      },
+      {
+       "title": "你的 AI，为什么不够聪明",
+       "url": "https://mp.weixin.qq.com/s/mcncApxc8KMLGQddGShwOA?scene=2&click_id=4",
+       "tag": "杜老板 · 公众号"
+      }
+     ]
+    },
+    {
+     "head": "大师兄公众号AI+电商干货文章集锦",
+     "type": "list",
+     "count": "14 篇",
+     "items": [
+      {
+       "title": "借汝人头一用：黄仁勋的祭旗时刻",
+       "url": "https://mp.weixin.qq.com/s/3p5tfbTOkBG2-WoH5RuhLw",
+       "tag": "大师兄 · 公众号"
+      },
+      {
+       "title": "四年，四幕，每幕都有人赚到钱",
+       "url": "https://mp.weixin.qq.com/s/m_b8u1nSCwfv28JBzzf3FA",
+       "tag": "大师兄 · 公众号"
+      },
+      {
+       "title": "我实测ChatGPT Image 2.6的3大新功能，生成速度飙升50%后我能彻底告别抽盲盒吗？",
+       "url": "https://mp.weixin.qq.com/s/BfWzoMAkNtTD9KEizb40vw",
+       "tag": "大师兄 · 公众号"
+      },
+      {
+       "title": "孙正义说AI只是热身，跟普通人有啥关系",
+       "url": "https://mp.weixin.qq.com/s/RT5w-9JtuIMouKG-4Enu3A",
+       "tag": "大师兄 · 公众号"
+      },
+      {
+       "title": "【全网最新】Muse AI 注册与使用教程｜2H8G云电脑｜300亿Token",
+       "url": "https://mp.weixin.qq.com/s/zLaJufx2_V7yUB7XErK0Mg",
+       "tag": "大师兄 · 公众号"
+      },
+      {
+       "title": "震惊！DeepSeek 1017 实测！这也叫小更新？",
+       "url": "https://mp.weixin.qq.com/s/xd-AHUI6uC49rE25ryzJEw",
+       "tag": "大师兄 · 公众号"
+      },
+      {
+       "title": "爆火的 Hypit，到底是夯还是拉？很多博主可能都讲错了",
+       "url": "https://mp.weixin.qq.com/s/xflxSxHJMz_4rkzotBvT5A",
+       "tag": "大师兄 · 公众号"
+      },
+      {
+       "title": "GPT Image 2.5来了，做图的人终于能少崩溃几次了",
+       "url": "https://mp.weixin.qq.com/s/o5Qxrkl-Sb7BKXyFKu-6ZQ",
+       "tag": "大师兄 · 公众号"
+      },
+      {
+       "title": "GPT-6 发布：以后需要学习人类软件的，可能不再是人类",
+       "url": "https://mp.weixin.qq.com/s/j37cgoYYW2hv3qN0x4l95A",
+       "tag": "大师兄 · 公众号"
+      },
+      {
+       "title": "豆包工作刚上线，字节的 AI 办公拼图终于对上了",
+       "url": "https://mp.weixin.qq.com/s/48TB68XW5ygs2dQnEv5z8Q",
+       "tag": "大师兄 · 公众号"
+      },
+      {
+       "title": "8G 显存真能跑？我把 MiniMax H3 跑了一遍，结果和想象中不太一样",
+       "url": "https://mp.weixin.qq.com/s/cIodmubjA8HnUdpCS-80bA",
+       "tag": "大师兄 · 公众号"
+      },
+      {
+       "title": "普通人别急着折腾 Codex，先把 WorkBuddy 用明白",
+       "url": "https://mp.weixin.qq.com/s/pw9Tsn617qQDHIu89RfNEA",
+       "tag": "大师兄 · 公众号"
+      },
+      {
+       "title": "AI Agent 可能比我们想象中更快走向普通人",
+       "url": "https://mp.weixin.qq.com/s/i1dS5srpjZ8yxhCMYXWQdQ",
+       "tag": "大师兄 · 公众号"
+      },
+      {
+       "title": "超越Seedance2.0！黑森林即将开源Flux3 Dev！",
+       "url": "https://mp.weixin.qq.com/s/iIGe_G04AdT3tlMjJxSnxQ",
+       "tag": "大师兄 · 公众号"
+      }
+     ]
+    }
+   ]
+  },
+  "records": {
+   "tag": "7 场",
+   "groups": [
+    {
+     "head": "AI + 电商改造大会活动录屏",
+     "type": "list",
+     "count": "5 场",
+     "items": [
+      {
+       "title": "尹晨：创始人改造 · AI 时代的创始人认知与改造路线图",
+       "url": "https://pan.baidu.com/s/1Sc_VwzvFz2Dz65NXnx-jWA?pwd=ytzr",
+       "code": "ytzr",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "杜老板：知识库改造 · 把公司十年的经验，变成 AI 能用的资产",
+       "url": "https://pan.baidu.com/s/1a4BwPS3EJ7Qn-IHvA8i92g?pwd=g7fv",
+       "code": "g7fv",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "李超：业务流改造 · AI 进入电商赚钱的每一个环节",
+       "url": "https://pan.baidu.com/s/1dO8iEn9emUOarKbiERZsBw?pwd=aig4",
+       "code": "aig4",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "林奕：业务流改造 · AI 进入电商赚钱的每一个环节",
+       "url": "https://pan.baidu.com/s/1KCM3_XA_lHAxCweuRtyXqg?pwd=htar",
+       "code": "htar",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "大师兄：管理流改造 · 重新解构 AI 时代的公司管理",
+       "url": "https://pan.baidu.com/s/1Kww65MImBBjWPBLMLkkIEQ?pwd=8k8h",
+       "code": "8k8h",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      }
+     ]
+    },
+    {
+     "head": "AI + 电商方法论 2026 年度分享大会",
+     "type": "list",
+     "count": "2 场",
+     "items": [
+      {
+       "title": "杜老板：电商人不可不知的 Seedance 2.5 使用技巧",
+       "url": "https://pan.baidu.com/s/1XzVJj-ZBUfOXFvqjU2XDRw?pwd=yu6z",
+       "code": "yu6z",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "小陈：Agent 电商业务流程与团队协作实战",
+       "url": "https://pan.baidu.com/s/1_DW-x3e3rrZGLp4Fol8sPQ?pwd=kr4q",
+       "code": "kr4q",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      }
+     ]
+    }
+   ]
+  },
+  "planet": {
+   "tag": "122 篇",
+   "groups": [
+    {
+     "head": "__grid__",
+     "type": "grid",
+     "count": "",
+     "items": [
+      {
+       "title": "从零搭建 AI 超级工作台：Obsidian + Claude Code + Claudian 实操全攻略",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/K0t7dOqQ4orcQExHXOucU1Znnhe",
+       "tag": "知识星球"
+      },
+      {
+       "title": "我把一条千川素材拆成了一份商家能用的报告",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/PjzWdHmd2oyZn9xjZadcj5NMnsg",
+       "tag": "知识星球"
+      },
+      {
+       "title": "3步教你把Obsidian喂给AI，让AI真正懂你",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/L7KGdO4LJowIUfxpRBbciJdPnad",
+       "tag": "知识星球"
+      },
+      {
+       "title": "做AI视频的人，90%不知道这个东西！",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/Wq62dJu0sotPbAxWBZFc78Rdn5c",
+       "tag": "知识星球"
+      },
+      {
+       "title": "62个skill怎么管？三省六部制",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/KH61dYyxWooMVbxikVscErW3n3e",
+       "tag": "知识星球"
+      },
+      {
+       "title": "80%的人装完Codex，都漏了这一步",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/TpgWdkeuKovzkOxzo3WcjPq5nRh",
+       "tag": "知识星球"
+      },
+      {
+       "title": "AI不是工具，是需要沟通技巧的队友",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/B6V7dHeIVoQ2dixwvQJciuuGnhf",
+       "tag": "知识星球"
+      },
+      {
+       "title": "AI落地的残酷真相：为什么只有老板亲自下场才有可能",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/A2a9dgZL7oX61rxJQoQcphvznC9",
+       "tag": "知识星球"
+      },
+      {
+       "title": "AI落地最难的不是工具，是缺业务翻译官",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/NCozdIuDqoGVKjxZkvfcwrXFnAg",
+       "tag": "知识星球"
+      },
+      {
+       "title": "AI能做到一切，除了那一秒的停顿",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/QwFPdEZxcoWs2oxcc0ycZnD0nJe",
+       "tag": "知识星球"
+      },
+      {
+       "title": "AI时代，偏激的人反而更重要了",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/OvPPd63QZofSvyx0OPfc28ncnFh",
+       "tag": "知识星球"
+      },
+      {
+       "title": "AI视频带货最赚钱的竟然是这种玩法",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/DsGZdB0PDoXJJbx8VLVcKQ46ntc",
+       "tag": "知识星球"
+      },
+      {
+       "title": "AI视频的核心不是工具，是选品",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/L8BLd3edboCZajxb0IhcAtxanoc",
+       "tag": "知识星球"
+      },
+      {
+       "title": "AI视频做出来成本极高？如何破解？",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/GY8Odf4BWoNVaHxYWgbcAzjSnwb",
+       "tag": "知识星球"
+      },
+      {
+       "title": "AI为什么有时候不靠谱？一文讲透上下文的秘密",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/Op5DdyVehoIKxnxIxmgctQ0Fn3d",
+       "tag": "知识星球"
+      },
+      {
+       "title": "codex 之gpt 5.6新模型如何节约额度",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/KjNtdbUOmodMwvxCx5gcYDyLnmg",
+       "tag": "知识星球"
+      },
+      {
+       "title": "Seedance 2.5让我想明白AI视频的终极打法",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/Oa5WdcAigoIyGtx9IRDcQMRgnqb",
+       "tag": "知识星球"
+      },
+      {
+       "title": "别再照搬别人的AI方法了，5招教你做出自己的AI工作流skill",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/UJ1cdoiJPoxtVjxmB69cxJEfn1d",
+       "tag": "知识星球"
+      },
+      {
+       "title": "大部分人用codex，都用反了。",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/IqT4dBXUUo5EfxxJC5Kcx9K7ndc",
+       "tag": "知识星球"
+      },
+      {
+       "title": "当AI视频成本接近零，什么最值钱？",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/IsOVd5vKIoto6DxHaNNceDFsn4c",
+       "tag": "知识星球"
+      },
+      {
+       "title": "很多老板问我,买了一堆AI工具,为什么团队效率还是上不去?",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/Mwsvd7Tt9ocIR6xrTsAcQt9onKf",
+       "tag": "知识星球"
+      },
+      {
+       "title": "很多人以为Codex是聊天工具，错了！",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/Pb58dZB2VowizqxohUbc2Ckenyg",
+       "tag": "知识星球"
+      },
+      {
+       "title": "那个听GEO的小孩，让我看懂了未来教育",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/A0Zgdmfeno3hiPxT9XkcedsJnZc",
+       "tag": "知识星球"
+      },
+      {
+       "title": "你在豆包里面搭的智能体从来不是你的！",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/M1dNd5cGioGUpAxmi0WcuxTLnpb",
+       "tag": "知识星球"
+      },
+      {
+       "title": "普通人最大的浪费：把经历只活了一遍",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/ID8ddEyPioTg0nxFyuscBxo1nDg",
+       "tag": "知识星球"
+      },
+      {
+       "title": "同样用AI做视频，为什么别人7天出单，你100条没人看？",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/AApqdQZBNoY54Bx9WCAcDWA5nKc",
+       "tag": "知识星球"
+      },
+      {
+       "title": "为什么AI带货追求真实是错的？",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/FducdXjCFoZ6hexXU7YcTQQHnBb",
+       "tag": "知识星球"
+      },
+      {
+       "title": "为什么电商业务不要一上来做自动化？",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/MNYYdwZWIotGx4xiZKZcbyaTnOe",
+       "tag": "知识星球"
+      },
+      {
+       "title": "为什么敢下定义的人，看起来都很专业？",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/SFXadHoSFojFgXx6mZ6cmn1lnWd",
+       "tag": "知识星球"
+      },
+      {
+       "title": "为什么你发100条AI视频，出单还是0？",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/VENjdlJtTofTgix8a5ScZKBgn1b",
+       "tag": "知识星球"
+      },
+      {
+       "title": "未来公司拼的不是人数，是AI超级个体密度",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/MgfTdvpv6oLFqqxSQT9cSZRknVb",
+       "tag": "知识星球"
+      },
+      {
+       "title": "我被AI打脸了：10分钟干完我3小时的活",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/Q5ZLdIwTEoVInZxs7Atcx7OZnNb",
+       "tag": "知识星球"
+      },
+      {
+       "title": "我的百万大号永久封禁：AI时代，跑太快真的会死",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/Q9YidyJXkomOotxeNCPcorQ6nCe",
+       "tag": "知识星球"
+      },
+      {
+       "title": "我发现一个秘密：赚钱的公司都在做团队Skill",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/GHbTdXlRAoi6SOxy8EEcBeiOnvh",
+       "tag": "知识星球"
+      },
+      {
+       "title": "用了那么多AI，为什么坐在电脑前的时间反而更多了？",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/EOuPdO512oMCXDxEUrXcTyw3nOg",
+       "tag": "知识星球"
+      },
+      {
+       "title": "员工用上AI，公司为什么没变快？",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/PWrTdH3PXoIw3uxqYNOcD41sn8d",
+       "tag": "知识星球"
+      },
+      {
+       "title": "员工不是不会用AI，是不想告诉老板",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/EGXUdGgEMoSj31xskOQcibXwnde",
+       "tag": "知识星球"
+      },
+      {
+       "title": "运营的价值，正在被AI重新定义",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/QxFudHYJQo6NovxeKctcFoCMnae",
+       "tag": "知识星球"
+      },
+      {
+       "title": "再见了超级APP，AI工作台时代来了",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/KBzndCZ0uovqChxXBGwcDwFInXd",
+       "tag": "知识星球"
+      },
+      {
+       "title": "真正会用 AI 的人，都在训练自己的表达",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/TIZHdLZV2oTMDmxoL3UcXFAhnbd",
+       "tag": "知识星球"
+      },
+      {
+       "title": "最近看到一个现象：很多企业花几十万上了AI系统，结果用了几个月就闲置了。",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/RfoydWB6momOI8xUXelcZYNKn1e",
+       "tag": "知识星球"
+      },
+      {
+       "title": "做AI两年我才发现,越具体的技巧过期越快",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/Dr1Qd8t2po4IMqxP9r7cSrtGnIc",
+       "tag": "知识星球"
+      },
+      {
+       "title": "月入百万吗？TikTok上的一批卖家靠AI视频真的做到了！",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/UmLodTSlJoaFpUxyADVc7hmFnpA",
+       "tag": "知识星球"
+      },
+      {
+       "title": "关于AI写文案，我的3个反常识观察",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/E1BLdbloAomM7BxzR9gcMhHKnme",
+       "tag": "知识星球"
+      },
+      {
+       "title": "TK 起链接慢到想砸电脑？AI “邪修” 直接炸穿效率：抄竞品不侵权，3 倍速度起量",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/UdC3dqpGdotQYCxUF6LcZE2znh5",
+       "tag": "知识星球"
+      },
+      {
+       "title": "AI博主把带货闭环跑通了：一个20天4.38万单的启示录",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/DjgzdgTJzo8R8NxfFFoc4QPTnLc",
+       "tag": "知识星球"
+      },
+      {
+       "title": "2026 深度解析：OpenClaw 从初级到高级，你的私人助理进化论",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/E6zSduj1Eo0qWvxGixGcWPsgnlh",
+       "tag": "知识星球"
+      },
+      {
+       "title": "全网吹爆的 OpenClaw，我接上 Claude 4.5 跑完后破防了",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/WJF2dkMEIoKOT6xU3dlc5vz0nuz",
+       "tag": "知识星球"
+      },
+      {
+       "title": "TikTok & AI 出海：深度解析IP的高与低",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/TxO1dOdGCo04xZxKRr3cq7mQnQc",
+       "tag": "知识星球"
+      }
+     ]
+    },
+    {
+     "head": "星友实操长文 · 近两个月",
+     "type": "list",
+     "count": "73 篇",
+     "items": [
+      {
+       "title": "乘方推广：素材追投的四象限方法论",
+       "url": "planet/p55521425881155114.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "我用这套方法，做通了豆包运营渠道，店铺销售额突破历史最高",
+       "url": "planet/p14425482515184882.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "兄弟们，好久没发了，我回来了。",
+       "url": "planet/p22258225182448181.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "从宏观角度来看AI素材",
+       "url": "planet/p82258225515854522.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "跑量AI素材拆解 · 03【新闻播报式】",
+       "url": "planet/p82258281182522122.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "还得是小陈写的抓取应用不烧心",
+       "url": "planet/p22258281484555821.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "跑量AI素材拆解 · 02【美妆·养肤贵妇膏】",
+       "url": "planet/p22258281854584511.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "一篇文章看懂如何挑选【适合的模型】",
+       "url": "planet/p45548584511552248.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "AI一天能做100条视频，然后呢？",
+       "url": "planet/p45548584828542518.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "跑量的AI素材拆解-1【个护·卫生巾】",
+       "url": "planet/p55521512151451184.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "明明有百万播放爆款，用户为什么还是记不住你？",
+       "url": "planet/p82258251814285222.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "企业上AI，先判断是加工具还是重构流程",
+       "url": "planet/p14425428548555142.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "1条爆款都没有，每天却可以进线100+客资",
+       "url": "planet/p82258254881848852.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "企业知识库里最值钱的，不是答案，是判断日志",
+       "url": "planet/p14425424211115422.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "老板想用AI省钱，员工凭什么配合？",
+       "url": "planet/p82258258218541422.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "两个Agent接不起来，员工就成了传话筒",
+       "url": "planet/p45548548485111528.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "第一次写这方面的。一方面是忙，另一方面也是因为真让我停下来想“这半年到底发生了什么”，脑子里…",
+       "url": "planet/p22258255448482551.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "AI省下时间后，为什么业务没有增长？",
+       "url": "planet/p22258255241451841.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "【作业打卡】离职后的这半年：被看见、犯错、成长，再重新出发",
+       "url": "planet/p82258255284185542.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "模型选型第一课-鹈鹕骑车大乱斗",
+       "url": "planet/p45548818182215118.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "腾讯开始认证FDE，企业AI落地正在进入交付时代",
+       "url": "planet/p22258818188544841.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "企业做AI，先复制高手，再接管苦活",
+       "url": "planet/p22258818842448511.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "企业AI落地，先用7天跑通这3步",
+       "url": "planet/p14425585288548242.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "震撼首发：Deep Seek 4.1 Flash快去用！！",
+       "url": "planet/p55521182812154414.html",
+       "tag": "星球长文"
+      },
+      {
+       "title": "AI忽聪明忽笨？你少了入职培训",
+       "url": "planet/p55521182522482524.html",
+       "tag": "星球长文"
+      }
+     ],
+     "extra": 48
+    },
+    {
+     "head": "__details__",
+     "type": "details",
+     "summary": "另有 48 条「AI 早报 / GitHub 榜单」等资讯速递，点击展开",
+     "items": [
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（11-04）",
+       "url": "planet/p55521424525218284.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 11-04",
+       "url": "planet/p55521424244821144.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 11-03",
+       "url": "planet/p14425124858522182.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 11-02",
+       "url": "planet/p45548245814185428.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 11-01",
+       "url": "planet/p45548248125815848.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-31）",
+       "url": "planet/p45548248141228828.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-31",
+       "url": "planet/p22258458158821451.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-30",
+       "url": "planet/p14425125581881242.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-29",
+       "url": "planet/p55521585585255144.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-28）",
+       "url": "planet/p82258212584815812.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-28",
+       "url": "planet/p55521581885544824.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-27",
+       "url": "planet/p22258218284842181.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-26",
+       "url": "planet/p45548514124111888.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-25）",
+       "url": "planet/p45548514555215848.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-25",
+       "url": "planet/p55521582552842824.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-24）",
+       "url": "planet/p22258215814818551.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-24",
+       "url": "planet/p14425482518422822.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-23）",
+       "url": "planet/p45548521111825428.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-23",
+       "url": "planet/p55521548841551244.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-22）",
+       "url": "planet/p22258241245282111.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-22",
+       "url": "planet/p55521548515822524.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-21）",
+       "url": "planet/p45548521442488848.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-21",
+       "url": "planet/p82258244141458852.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-20",
+       "url": "planet/p14425411455285452.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-19）",
+       "url": "planet/p14425411524515522.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-19",
+       "url": "planet/p22258242144581421.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-18",
+       "url": "planet/p22258242421548411.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-17",
+       "url": "planet/p14425448284452122.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-16",
+       "url": "planet/p45548552115488428.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-15）",
+       "url": "planet/p55521554544448184.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-15",
+       "url": "planet/p82258224225458822.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-14）",
+       "url": "planet/p82258224581452152.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-14",
+       "url": "planet/p14425441225248442.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-13）",
+       "url": "planet/p82258222218455152.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-13",
+       "url": "planet/p22258222224822511.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-12）",
+       "url": "planet/p82258222825244422.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-12",
+       "url": "planet/p82258222881118842.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-11",
+       "url": "planet/p14425445184545482.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-10）",
+       "url": "planet/p55521551518215454.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-10",
+       "url": "planet/p82258228285844422.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-09）",
+       "url": "planet/p45548558881414558.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-09",
+       "url": "planet/p22258228885282511.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-08）",
+       "url": "planet/p45548554144454848.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-08",
+       "url": "planet/p22258225445115181.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-07）",
+       "url": "planet/p55521552142188524.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-07",
+       "url": "planet/p45548554858584158.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "⭐ GitHub 今日 Star 增长榜（10-06）",
+       "url": "planet/p55521552284428214.html",
+       "tag": "资讯速递"
+      },
+      {
+       "title": "📰 AI 早报 10-06",
+       "url": "planet/p14425442218885112.html",
+       "tag": "资讯速递"
+      }
+     ]
+    }
+   ]
+  },
+  "live": {
+   "tag": "17 场",
+   "groups": [
+    {
+     "head": "尹晨主讲",
+     "type": "list",
+     "count": "4 场",
+     "items": [
+      {
+       "title": "尹晨：chatcut半自动剪辑实操指南",
+       "url": "https://pan.baidu.com/s/1S_UXApJyE_4T1ENHKZ0C5w?pwd=g45y",
+       "code": "g45y",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "尹晨：如何最大化挖掘AI使用场景",
+       "url": "https://pan.baidu.com/s/1d827ynXedvNz-wPsRDjPxA?pwd=v9ea",
+       "code": "v9ea",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "尹晨：如何打造AI知识库？900万字实操案例拆解",
+       "url": "https://pan.baidu.com/s/1zIkhNEEzYlyY6Mi83Wz-0w?pwd=e3ei",
+       "code": "e3ei",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "尹晨：IP+AI如何实现百倍提效",
+       "url": "https://pan.baidu.com/s/1-ZGnMGZLtXPi8oT1q4F_TQ?pwd=bqtz",
+       "code": "bqtz",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      }
+     ]
+    },
+    {
+     "head": "嘉宾专场",
+     "type": "list",
+     "count": "13 场",
+     "items": [
+      {
+       "title": "嘉宾杜金：深度视频，Seedance复刻爆款的新解法",
+       "url": "https://pan.baidu.com/s/14pGNvX6u_EI537EScENKMg?pwd=5rgx",
+       "code": "5rgx",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "嘉宾大师兄：颠覆短视频生产的AI工具来了，它叫Hypit",
+       "url": "https://pan.baidu.com/s/1FeN1Mq8B0i1za-x6Yn_9rQ?pwd=cxvh",
+       "code": "cxvh",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "嘉宾辫子：codex实践：自媒体、电商与生活",
+       "url": "https://pan.baidu.com/s/1Qc4NB1hcBffqAJ0BSAv_tg?pwd=4cdp",
+       "code": "4cdp",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "嘉宾好大一只鸟：月销千万的AI素材大揭秘",
+       "url": "https://pan.baidu.com/s/1Frsiz4-5FRSH0m16N00eKQ?pwd=dsqj",
+       "code": "dsqj",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "嘉宾杜老板：Seedance 2.5+ MiniMax H3 大揭秘",
+       "url": "https://pan.baidu.com/s/1_tzD99XGPWjjS60i0o6vnA?pwd=3gua",
+       "code": "3gua",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "嘉宾小陈：Workbuddy实操指南",
+       "url": "https://pan.baidu.com/s/1KplJw8WoDqhulUhomLMAkQ?pwd=5ku5",
+       "code": "5ku5",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "嘉宾大师兄：Codex+电商实操大作战",
+       "url": "https://pan.baidu.com/s/1I5Who-nIXW_PyRx6g_f18g?pwd=rsgq",
+       "code": "rsgq",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "嘉宾小陈：Agent在流量业务中的实际落地",
+       "url": "https://pan.baidu.com/s/1TQK-FHYkhe8NeE-4Iid8sg?pwd=c3js",
+       "code": "c3js",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "嘉宾杜金：Token越来越贵，AI内容如何降本增效",
+       "url": "https://pan.baidu.com/s/16itcfGWIAk7lArZqta8Ptw?pwd=s2se",
+       "code": "s2se",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "嘉宾镇涛：AI如何重构Tiktok短视频生产",
+       "url": "https://pan.baidu.com/s/1uAtyinwCvOdmIlAdgDLjgQ?pwd=dxrt",
+       "code": "dxrt",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "嘉宾阿忠：AI重构电商内容生产方法论",
+       "url": "https://pan.baidu.com/s/1Q_bfQjw04sPL8vwehqAnFg?pwd=1mk3",
+       "code": "1mk3",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "嘉宾杜金：sora颠覆内容创作大揭秘",
+       "url": "https://pan.baidu.com/s/1SyC6x1JjuMTSdcxfCD29WA?pwd=697k",
+       "code": "697k",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      },
+      {
+       "title": "嘉宾杜金：1000条跑量素材背后的AI公式",
+       "url": "https://pan.baidu.com/s/1G15KfCZGeii08qA3oTriDA?pwd=jjtq",
+       "code": "jjtq",
+       "tag": "百度网盘",
+       "src": "百度网盘"
+      }
+     ]
+    }
+   ]
+  },
+  "docs": {
+   "tag": "28 份",
+   "groups": [
+    {
+     "head": "Seendance技巧文档",
+     "type": "list",
+     "count": "5 份",
+     "items": [
+      {
+       "title": "Seedance 2.5使用手册",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/Z0rxdayV8or3sGxM8NEc9hKdn6B",
+       "tag": "飞书文档",
+       "src": "飞书"
+      },
+      {
+       "title": "Seedance 2.5 提示词撰写指南",
+       "url": "https://jfrnaik2cr.feishu.cn/docx/OsiUdR1OxoDqvnxsK8LczYx7nPd",
+       "tag": "飞书文档",
+       "src": "飞书"
+      },
+      {
+       "title": "Seedance 2.0 系列教程.pdf",
+       "url": "https://jfrnaik2cr.feishu.cn/file/PR49bwjNxoIV8uxVWBLclZ5lnub",
+       "tag": "飞书文档",
+       "src": "飞书"
+      },
+      {
+       "title": "Seedance 2.0 系列提示词指南.pdf",
+       "url": "https://jfrnaik2cr.feishu.cn/file/RBRWbJyokoKv5BxaRdTcN2QOnjb",
+       "tag": "飞书文档",
+       "src": "飞书"
+      },
+      {
+       "title": "Seedance 视频生成教程.pdf",
+       "url": "https://jfrnaik2cr.feishu.cn/file/Nt0MbetIZox1DOxDqcCcNCcGn5c",
+       "tag": "飞书文档",
+       "src": "飞书"
+      }
+     ]
+    },
+    {
+     "head": "Codex技巧文档",
+     "type": "list",
+     "count": "5 份",
+     "items": [
+      {
+       "title": "Codex一站式实操指南",
+       "url": "https://codexguide.ai/",
+       "tag": "网页",
+       "src": "网页"
+      },
+      {
+       "title": "Codex官方UseCases入门教程",
+       "url": "https://my.feishu.cn/docx/IFq0dTHuToSsb1xLBAOcIabEnxb",
+       "tag": "飞书文档",
+       "src": "飞书"
+      },
+      {
+       "title": "Codex列表式学习资料大全",
+       "url": "https://waytoagi.feishu.cn/wiki/OBYfwSsIUiMAFtkmo7bchYa5nDY",
+       "tag": "飞书文档",
+       "src": "飞书"
+      },
+      {
+       "title": "Codex CLI 官方文档导览（2026）",
+       "url": "https://codex.danielvaughan.com/2026/04/19/openai-codex-cli-official-documentation-guide/",
+       "tag": "网页",
+       "src": "网页"
+      },
+      {
+       "title": "Codex橙皮书.pdf",
+       "url": "https://jfrnaik2cr.feishu.cn/file/MMVfbvZ78oWtYuxlbhNcZXeunQd",
+       "tag": "飞书文档",
+       "src": "飞书"
+      }
+     ]
+    },
+    {
+     "head": "Workbuddy技巧文档",
+     "type": "list",
+     "count": "4 份",
+     "items": [
+      {
+       "title": "WorkBuddy 使用手册与实战指南",
+       "url": "https://workbuddy.homes/bluebook/",
+       "tag": "官网",
+       "src": "官网"
+      },
+      {
+       "title": "手把手教你用 WorkBuddy × ima 搭一套「会进化」的AI工作流",
+       "url": "https://mp.weixin.qq.com/s/3JcLNnN8v7aXrS8KtQcCQw",
+       "tag": "公众号",
+       "src": "公众号"
+      },
+      {
+       "title": "WorkBuddy 10 个上手技巧",
+       "url": "https://www.codebuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Efficient-Tips",
+       "tag": "官网",
+       "src": "官网"
+      },
+      {
+       "title": "WorkBuddy 怎么用？10分钟从安装到入门",
+       "url": "https://www.idigpower.com/article/9350b2434ae0",
+       "tag": "网页",
+       "src": "网页"
+      }
+     ]
+    },
+    {
+     "head": "快手可灵",
+     "type": "list",
+     "count": "6 份",
+     "items": [
+      {
+       "title": "可灵视频 3.0 模型使用指南",
+       "url": "https://docs.qingque.cn/d/home/eZQCqDGoymg61UKgMckSB2oMh?identityId=1rkoJmojnQi",
+       "tag": "青雀文档",
+       "src": "青雀文档"
+      },
+      {
+       "title": "可灵视频 3.0 Omni 使用指南",
+       "url": "https://docs.qingque.cn/d/home/eZQDPQ5RCKYKpTbz1poE88YSp?identityId=1rkoJmojnQi",
+       "tag": "青雀文档",
+       "src": "青雀文档"
+      },
+      {
+       "title": "可灵O1-视频O1使用指南",
+       "url": "https://docs.qingque.cn/d/home/eZQCg5xHvxDaE-jP2GcnaNc6O?identityId=2NUucn9H0x1#section=h.dyawluwtx2d9",
+       "tag": "青雀文档",
+       "src": "青雀文档"
+      },
+      {
+       "title": "可灵视频2.6功能实用手册",
+       "url": "https://docs.qingque.cn/d/home/eZQBMUXCmLjb57bpfsVk2jNvx?identityId=2NUucn9H0x1",
+       "tag": "青雀文档",
+       "src": "青雀文档"
+      },
+      {
+       "title": "可灵图片 3.0 - 使用指南",
+       "url": "https://docs.qingque.cn/d/home/eZQBLMR-3rTRKlMTF9U14ptYa?identityId=2GhL1Xjqa9b",
+       "tag": "青雀文档",
+       "src": "青雀文档"
+      },
+      {
+       "title": "可灵图片 3.0 Omni- 使用指南",
+       "url": "https://docs.qingque.cn/d/home/eZQAit38w9iv2rOZ3k0CXYYn-?identityId=2LcjPh9K5Df",
+       "tag": "青雀文档",
+       "src": "青雀文档"
+      }
+     ]
+    },
+    {
+     "head": "其他AI+电商技巧文档",
+     "type": "list",
+     "count": "8 份",
+     "items": [
+      {
+       "title": "最新豆包图片生成教程.pdf",
+       "url": "https://jfrnaik2cr.feishu.cn/file/Xf2gbx16yoZ8UIxIrzJc6maVnze",
+       "tag": "飞书文档",
+       "src": "飞书"
+      },
+      {
+       "title": "Claude Code 最常用 & 最实用使用指南",
+       "url": "https://ld246.com/article/1775966178621",
+       "tag": "网页",
+       "src": "网页"
+      },
+      {
+       "title": "AI学习路径与课程",
+       "url": "https://waytoagi.feishu.cn/wiki/RJofwtPcci6YMJkzBP2cRFFOnIR",
+       "tag": "飞书文档",
+       "src": "飞书"
+      },
+      {
+       "title": "AI提示词技巧大全",
+       "url": "https://waytoagi.feishu.cn/wiki/Q5mXww4rriujFFkFQOzc8uIsnah?table=tbldSgFt2xNUDNAz&view=vewo2g2ktO",
+       "tag": "飞书文档",
+       "src": "飞书"
+      },
+      {
+       "title": "AI图片设计网站大全",
+       "url": "https://waytoagi.feishu.cn/wiki/XCiTww8c6iEPyWkDa7IcWAv3n7g?table=tblJBAAH5wy6QGN1&view=vewy620VBl",
+       "tag": "飞书文档",
+       "src": "飞书"
+      },
+      {
+       "title": "AI视频网站大全",
+       "url": "https://waytoagi.feishu.cn/wiki/XCiTww8c6iEPyWkDa7IcWAv3n7g?table=tblhUeZx3rFaowYg&view=vewSrU6Klc",
+       "tag": "飞书文档",
+       "src": "飞书"
+      },
+      {
+       "title": "AI音频网站大全",
+       "url": "https://waytoagi.feishu.cn/wiki/XCiTww8c6iEPyWkDa7IcWAv3n7g?table=tblEJy8aHLqJCDp8&view=vewKvBsbml",
+       "tag": "飞书文档",
+       "src": "飞书"
+      },
+      {
+       "title": "使用AI的电脑选配指南",
+       "url": "https://jfrnaik2cr.feishu.cn/wiki/EQ5KwWD8diU2FEkwj2Dc9JXbnTf",
+       "tag": "飞书文档",
+       "src": "飞书"
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
