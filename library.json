@@ -1,14 +1,35 @@
 {
- "version": "2026-11-19",
+ "version": "2026-11-23",
  "sections": {
   "articles": {
-   "tag": "61 篇",
+   "tag": "64 篇",
    "groups": [
     {
      "head": "尹晨公众号AI+电商干货文章集锦",
      "type": "list",
-     "count": "21 篇",
+     "count": "24 篇",
      "items": [
+      {
+       "title": "当明星，来电商行业“吃烂饭”！",
+       "url": "https://mp.weixin.qq.com/s/h0mrBg7ka2gYhbBNCeCXTw",
+       "tag": "尹晨 · 公众号",
+       "date": "11.19",
+       "isNew": true
+      },
+      {
+       "title": "GEO：电商人不得不抢的下一张牌！",
+       "url": "https://mp.weixin.qq.com/s/86V70OgrhbDniO9HHBoZqg",
+       "tag": "尹晨 · 公众号",
+       "date": "11.15",
+       "isNew": true
+      },
+      {
+       "title": "短剧，正在摧毁一代人。",
+       "url": "https://mp.weixin.qq.com/s/ZRlYvwxObY3w2J391NgrLg",
+       "tag": "尹晨 · 公众号",
+       "date": "11.10",
+       "isNew": true
+      },
       {
        "title": "字节，绝不能一家独大",
        "url": "https://mp.weixin.qq.com/s?__biz=MzI3MDIyOTAzNw==&mid=2247491696&idx=1&sn=7c134b9126d663f0d53b9321ac04b394&chksm=eb95d7183c97a8d031c1da0472eca0b0bc4e96b31dbe4d76a0242302b78c6231f4b54d76ed6e#rd",
