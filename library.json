@@ -1,5 +1,5 @@
 {
- "version": "2026-11-23b",
+ "version": "2026-11-23c",
  "sections": {
   "articles": {
    "tag": "64 篇",
@@ -1212,13 +1212,21 @@
    ]
   },
   "live": {
-   "tag": "17 场",
+   "tag": "18 场",
    "groups": [
     {
      "head": "尹晨主讲",
      "type": "list",
-     "count": "4 场",
+     "count": "5 场",
      "items": [
+      {
+       "title": "尹晨：全网最好用的Grokbot实操指南",
+       "url": "https://pan.baidu.com/s/1r8I4T5of5BrWlU2rBv7JSg?pwd=tyhd",
+       "code": "tyhd",
+       "tag": "百度网盘",
+       "src": "百度网盘",
+       "isNew": true
+      },
       {
        "title": "尹晨：chatcut半自动剪辑实操指南",
        "url": "https://pan.baidu.com/s/1S_UXApJyE_4T1ENHKZ0C5w?pwd=g45y",
