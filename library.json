@@ -1,5 +1,5 @@
 {
- "version": "2026-11-23",
+ "version": "2026-11-23b",
  "sections": {
   "articles": {
    "tag": "64 篇",
@@ -341,17 +341,17 @@
      "count": "14 篇",
      "items": [
       {
-       "title": "借汝人头一用：黄仁勋的祭旗时刻",
-       "url": "https://mp.weixin.qq.com/s/3p5tfbTOkBG2-WoH5RuhLw",
-       "tag": "大师兄 · 公众号",
-       "date": "11.10",
-       "isNew": true
-      },
-      {
        "title": "四年，四幕，每幕都有人赚到钱",
        "url": "https://mp.weixin.qq.com/s/m_b8u1nSCwfv28JBzzf3FA",
        "tag": "大师兄 · 公众号",
        "date": "11.09",
+       "isNew": true
+      },
+      {
+       "title": "借汝人头一用：黄仁勋的祭旗时刻",
+       "url": "https://mp.weixin.qq.com/s/3p5tfbTOkBG2-WoH5RuhLw",
+       "tag": "大师兄 · 公众号",
+       "date": "11.10",
        "isNew": true
       },
       {
